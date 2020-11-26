@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaspTFT", "RaspTFT.vcxproj", "{F0EA1B86-C8B5-4661-9F1A-2C075C738503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM.Build.0 = Debug|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM64.Build.0 = Debug|ARM64
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM.ActiveCfg = Release|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM.Build.0 = Release|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM.Deploy.0 = Release|ARM
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM64.ActiveCfg = Release|ARM64
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM64.Build.0 = Release|ARM64
+		{F0EA1B86-C8B5-4661-9F1A-2C075C738503}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7B9400-2EEC-4F92-A6B8-9F14905BD35A}
+	EndGlobalSection
+EndGlobal
